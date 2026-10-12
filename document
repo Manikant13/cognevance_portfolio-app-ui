@@ -1,1 +1,27 @@
+# Project Documentation
 
+## 1. Research
+Reviewed portfolio designs on Behance, Dribbble, and Awwwards.
+Key takeaways: clean layout, strong typography, clear call-to-action.
+
+## 2. Wireframes
+Created low-fidelity wireframes for Home, About, Projects, Skills, and Contact.
+
+## 3. UI Design
+- Color palette: [describe]
+- Typography: [fonts and sizes]
+- Icons: [icon set]
+
+## 4. Responsive Design
+- Desktop: 1440px frame
+- Mobile: 375px frame
+
+## 5. Prototype
+Connected all screens with navigation links (menu to pages, buttons to sections).
+
+## 6. Challenges and Solutions
+- Challenge: [example: spacing on mobile]
+- Solution: [example: used auto layout]
+
+## 7. Conclusion
+[Short summary of what you learned.]
